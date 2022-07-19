@@ -23,6 +23,8 @@ This is not an official dashboard for a real company. All data and business rule
 
 
 *************
+
+This BI best showcases User Navigation skills, with edited interactions between views, button that change with state (default, highlighted, selected) navigation buttons, etc
 EXCEL
 Deprecated. There were macros for recording historical data, more user friendly formatting.
 
@@ -31,6 +33,6 @@ PROJECT OVERVIEW
 Reason for "Portfolio evolution": Projects are constantly comming up, so we need to see if we are starting more than we are able to execute.
 
 PROJCTES IN PROGRESS
-Would ideally insert Gantt or Evolução Física, but Gantt is for paid version, and the second one requires a historical record of actionlog.
+Would ideally insert Gantt or Evolução Física, but Gantt is for paid version, and the second one requires a historical record of actionlog. So instead I included a ranking of delayed projects.
 DATEDIFF to calculate duration of actions.
 Time taken will be big for 'in progress' as it counts TODAY as the date for calculation of uncompleted actions.
